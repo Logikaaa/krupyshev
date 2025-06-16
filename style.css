@@ -1,0 +1,196 @@
+body {
+box-sizing: border-box;
+position: relative;
+width: 489px;
+height: 666px;
+background: linear-gradient(199.06deg, #584E04 14.66%, #000000 30.02%, #000000 52.16%, #584E04 74.3%, #000000 87.16%);
+border: 3px solid #FFE100;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+header {
+    /* завантаження */
+
+box-sizing: border-box;
+
+width: 479px;
+height: 90px;
+
+
+background-color: #000000;
+
+}
+
+.button {
+    
+}
+
+nav {
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+background: linear-gradient(90deg, #292929 14.14%, #8F8F8F 50.51%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;  
+}
+
+.nav-link {
+    
+    /* Team */
+
+text-align: left;
+width: 159px;
+height: 58px;
+border-left: 5px  double gray;
+border-right: 5px  double gray;
+border-top: 5px double gray;
+border-bottom: 5px  double gray;
+
+
+
+}
+.nav-linke{
+    /* Team */
+
+width: 159px;
+height: 58px;
+
+
+border-left: 5px  double gray;
+border-right: 5px  double gray;
+border-top: 5px double gray;
+border-bottom: 5px  double gray;
+
+
+
+
+}
+
+h1 {
+/* Countre Strike */
+
+position: absolute;
+width: 246px;
+height: 44px;
+left: 138px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+background: linear-gradient(90deg, #9C8B0F 26.42%, #FFFFFF 54.76%, #2600FF 85.37%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+}
+
+p {
+    font-size: 20px;
+
+color: #FFFFFF;
+
+
+}
+
+.lolo {
+ 
+/* Rectangle 2 */
+
+
+
+
+
+left: 20px;
+top: 183px;
+ border-left: 5px  double gray;
+border-right: 5px  double gray;
+border-top: 5px double gray;
+border-bottom: 5px  double gray;
+
+
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+bllllll {
+   
+/* Rectangle 5 */
+
+
+
+background: linear-gradient(243.29deg, #313131 43.73%, #979797 66.74%);
+
+}
+
+footer {
+    /* Rectangle 5 */
+
+width: 450px;
+height: 125px;
+left: 37px;
+top: 491px;
+
+background: linear-gradient(243.29deg, #313131 43.73%, #979797 66.74%);
+
+
+footer p {
+}
+h2{
+ /* Best player now */
+
+position: absolute;
+width: 181px;
+height: 29px;
+left: 151px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #000000;
+
+
+    
+}
+.logo{
+    /* завантаження */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 72px;
+height: 72px;
+left: 20px;
+top: 10px;
+
+
+border-left: 5px  double white;
+border-right: 5px  double white;
+border-top: 5px double white;
+border-bottom: 5px  double white;
+
+}
